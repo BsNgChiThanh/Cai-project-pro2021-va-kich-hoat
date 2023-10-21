@@ -6,6 +6,11 @@
   - ![image](https://github.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat/assets/82578024/6d9842fb-0657-419d-8816-3c404599c443)
 
 ## KÍCH HOẠT PROJECT PRO 2021 ##
+  - Kích hoạt bằng: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
+  - Hoặc kích hoạt bằng: https://github.com/BsNgChiThanh/MAS-TOOL
+  - Hoặc kích hoạt bằng: https://github.com/BsNgChiThanh/ActivateAIOTools
+  
+## DEMO: ##
   - ![image](https://github.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat/assets/82578024/87d44671-228e-4bb1-b783-2a27ba4e5486)
   - ![image](https://github.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat/assets/82578024/86095507-00c4-4f24-b0af-3bb2521cc425)
   - **Bấm phím 2**
