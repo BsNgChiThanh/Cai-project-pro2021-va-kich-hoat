@@ -18,7 +18,10 @@
   - **Bấm phím 1**
   - ![image](https://github.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat/assets/82578024/9d4b3a0c-db84-4c2d-b48c-7264fedf6ad5)
   - OK!
-  - 
+  - ![image](https://github.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat/assets/82578024/f44acfcd-fb70-46ae-a64c-66659ec12216)
+
+#### DONE! ####
+
 
 
 
