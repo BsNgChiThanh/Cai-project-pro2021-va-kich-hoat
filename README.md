@@ -2,6 +2,8 @@
 ## CÀI PROJECT PRO 2021 ##
   - Download file cài đặt PROJECT PRO 2021 [tại đây](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProjectPro2021Retail.img) hoặc [tại đây](https://drive.google.com/file/d/1aNxjjCqt6QyEZQxkwbnXQ8lZ54PCc1Zi/view) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EaKY_T6wJ2lKjVfV5ieehD8BtNlhWDTLyIGQvNzjnUmayA?e=baz7o1) Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
   - https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProjectPro2021Retail.img
+  - https://raw.githubusercontent.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat/IMP/OfficeSetupProject2021x32.exe
+  - https://raw.githubusercontent.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat/IMP/OfficeSetupProject2021x64.exe
   - Cài đặt:
   - ![image](https://github.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat/assets/82578024/59cecb5a-323c-481a-b48c-f02b4aec6bb6)
   - ![image](https://github.com/BsNgChiThanh/Cai-project-pro2021-va-kich-hoat/assets/82578024/6d9842fb-0657-419d-8816-3c404599c443)
